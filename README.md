@@ -1,5 +1,6 @@
-# Verifiche-PC-PHP-5
-Verifiche PC PHP 5
+# Verifiche-PC
+Verifiche PC 
+In fase di sviluppo, se avete delle verifiche che non ho messo qua, mandatemele
 
 Da usare solo in caso di ESTREMA esigenza
 
