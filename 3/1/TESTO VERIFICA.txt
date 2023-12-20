@@ -1,0 +1,12 @@
+Realizzate un sito web per presentare un contest musicale che si terrà in una scuola superiore.
+Il sito dovrà essere composto da almeno tre pagine
+- una pagina principale che presenti il concorso;
+- due pagine che raccolgano le informazioni per due categorie distinte di partecipanti. Potete ad esempio creare una pagina per il contest destinato agli studenti del biennio e una per quelli del triennio, oppure potete suddividere i partecipanti nelle categorie solistigruppi, o altro ancora, a vostra scelta. Chi di voi ha un piano di studi personalizzato (PDP) lasci pure vuota la seconda pagina (o comunque inizi a lavorarci solo quando il resto del sito è completato).
+Il sito deve essere interamente realizzato in HTML e CSS, usando bene i due linguaggi. Non usate template CSS già pronti o framework esterni, ma solo codice scritto da voi.
+Potete scegliere liberamente il contenuto del vostro sito, inserendo immagini, link, liste, tabelle e ciò che preferite.
+Prestate però attenzione ai seguenti vincoli
+1) curate margini, spaziature, sfondi dei vari elementi presenti nelle vostre pagine con CSS, in modo da migliorare l'aspetto del vostro sito;
+2) inserite nel vostro sito almeno una tabella (decidete voi per cosa vi può essere utile), opportunamente formattata con CSS;
+3) curate bene anche l'aspetto del testo contenuto nel vostro sito e personalizzate font, dimensioni, o tutto ciò che vi serve per migliorare la resa grafica;
+4) personalizzate i link contenuti nelle pagine del sito e in particolare il loro comportamento al passaggio del mouse e quando il link viene visitato.In generale, fate in modo che l'aspetto grafico del vostro sito sia personalizzato gradevole e uniforme.
+Se dovete inserire dei testi lunghi all'interno delle vostre pagine e non li trovate già pronti da copiare potete utilizzare il Lorem Ipsum, ma il titolo o l'inizio di quei paragrafi dovrà far capire cosa sarà contenuto in quella porzione di pagina.
