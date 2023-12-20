@@ -1,0 +1,3 @@
+Questo esercizio è fino al punto 5.
+Teoricamente fatto come vuole lui (è un 8 se non cambia i parametri di valutazione)
+La sufficienza è fino al punto 3!
